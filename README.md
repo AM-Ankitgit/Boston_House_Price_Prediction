@@ -1,6 +1,6 @@
 #Boston_House_Price_Prediction
 
-here we implement knn algorithms for prediction house price prediction
+here we implement knn algorithms for prediction of house price.
 
 it is end to end project from model training , testing 
 
