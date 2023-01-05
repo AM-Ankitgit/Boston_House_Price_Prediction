@@ -1,0 +1,17 @@
+{
+    "columns":[
+        "CRIM", 
+        "ZN", 
+        "INDUS",
+        "CHAS",
+        "NOX",
+        "RM", 
+        "AGE",
+        "DIS",
+        "RAD",
+        "TAX", 
+        "PTRATIO",
+        "B",
+        "LSTAT"
+        ]
+    }
